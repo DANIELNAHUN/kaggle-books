@@ -4,3 +4,8 @@ polars
 numpy
 openpyxl
 pymysql
+fastapi
+uvicorn
+requests
+sqlalchemy
+python-dotenv
