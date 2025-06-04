@@ -1,0 +1,6 @@
+pyinstaller
+pandas
+polars
+numpy
+openpyxl
+pymysql
